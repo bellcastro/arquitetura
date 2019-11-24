@@ -1,0 +1,2 @@
+# arquitetura
+multiplicação assembly
